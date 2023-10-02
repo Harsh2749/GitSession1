@@ -1,2 +1,1 @@
-# GitSession1
-Coding msla
+Welcome to MLSA Hacktoberfast
